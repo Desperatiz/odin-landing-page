@@ -14,6 +14,7 @@
     align-items: center;
     text-align: center;
     gap: 36rem;
+    padding-top: 1.5rem;
 }
 
 h1 {
@@ -76,8 +77,8 @@ li {
     font-weight: bold;
 }
 
-
 .hero-image {
-    color: #E5E7EB;
-    margin-right: 16rem;
+    width: 410px;
+    height: 252px;
+    margin-right: 12rem;
 }
